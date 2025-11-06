@@ -20,15 +20,15 @@ biblioteca/
  
 ├── Ficción/
  
-│   └── Tolkien/
+│     └── Tolkien/
 
-│       └── El Hobbit/libros.csv
+│        └── El Hobbit/libros.csv
 
 └── Historia/
      
-     └── Yuval Harari/
+      └── Yuval Harari/
      
-             └── Sapiens/libros.csv
+              └── Sapiens/libros.csv
 
 Cada archivo `libros.csv` almacena la información de los libros pertenecientes a ese autor y título, garantizando **persistencia física** en el sistema de archivos.
 
