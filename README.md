@@ -15,14 +15,14 @@ Integrantes: Ignacio Sanchez, Fernando Torrez, Nicolas Valdez
 Este proyecto implementa un **sistema de gestión de libros** con **persistencia avanzada** en Python.  
 Los datos se almacenan en una **estructura jerárquica de carpetas**, reflejando las relaciones lógicas entre los libros:
 
- ```Estructura de carpetas generada por el sistema:```
- biblioteca/
- ├── Ficción/
- │   └── Tolkien/
- │       └── El Hobbit/libros.csv
- └── Historia/
-     └── Yuval Harari/
-         └── Sapiens/libros.csv
+ Estructura de carpetas generada por el sistema:
+ ```biblioteca/```
+ ```├── Ficción/```
+ ```│   └── Tolkien/```
+ ```│       └── El Hobbit/libros.csv```
+ ```└── Historia/```
+     ```└── Yuval Harari/```
+         ```└── Sapiens/libros.csv```
 
 
         
