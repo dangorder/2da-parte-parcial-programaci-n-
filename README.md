@@ -16,6 +16,7 @@ Este proyecto implementa un **sistema de gestión de libros** con **persistencia
 Los datos se almacenan en una **estructura jerárquica de carpetas**, reflejando las relaciones lógicas entre los libros:
 
 biblioteca/
+
 ├── Ficción/
 
 │    └── Tolkien/
@@ -23,10 +24,8 @@ biblioteca/
 │       └── El Hobbit/libros.csv
 
 └── Historia/
-    
     └── Yuval Harari/
-        
-        └── Sapiens/libros.csv
+            └── Sapiens/libros.csv
         
 Cada archivo `libros.csv` almacena la información de los libros pertenecientes a ese autor y título, garantizando **persistencia física** en el sistema de archivos.
 
