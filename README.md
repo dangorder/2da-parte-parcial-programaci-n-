@@ -21,9 +21,9 @@ biblioteca/
  
 ├── Ficción/
  
-│     └── Tolkien/
+│        └── Tolkien/
 
-│        └── El Hobbit/libros.csv
+│                                └── El Hobbit/libros.csv
 
 └── Historia/
      
