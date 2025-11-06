@@ -26,11 +26,8 @@ biblioteca/
 │ └── García Márquez/
 
 │ └── Cien años de soledad/libros.csv
-
 └── Historia/
-
 └── Yuval Harari/
-
 └── Sapiens/libros.csv
 
 
