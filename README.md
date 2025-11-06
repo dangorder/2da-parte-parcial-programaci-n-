@@ -16,6 +16,7 @@ Este proyecto implementa un **sistema de gestión de libros** con **persistencia
 Los datos se almacenan en una **estructura jerárquica de carpetas**, reflejando las relaciones lógicas entre los libros:
 
 Estructura de carpetas generada por el sistema:
+
 biblioteca/
  
 ├── Ficción/
