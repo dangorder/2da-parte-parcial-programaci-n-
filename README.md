@@ -168,3 +168,9 @@ validar_numero() → controla que el precio sea positivo.
 
 validar_anio() → asegura que el año esté dentro del rango 1500–2025.
 
+🧾 Conclusión
+
+El sistema de gestión de libros desarrollado demuestra la aplicación práctica de los conceptos de persistencia avanzada, recursividad y modularización en Python.
+A través de una estructura jerárquica de tres niveles (Género → Autor → Título), el programa permite almacenar y gestionar información de forma ordenada y permanente mediante archivos CSV.
+El uso de la librería os, junto con funciones validadas y manejo seguro de archivos, garantiza la integridad de los datos y la automatización del sistema.
+En conjunto, el proyecto cumple los objetivos del parcial, integrando un CRUD completo, estadísticas, filtrado y recorrido recursivo de carpetas, reflejando un desarrollo robusto, claro y funcional.
