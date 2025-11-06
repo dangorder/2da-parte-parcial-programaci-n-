@@ -1,6 +1,6 @@
 EJERCICIO FINAL INTEGRADOR: 
 
-GESTION GERARQUICA DE DATOS
+Gestión Jerárquica de Datos
 
 # 📚 Sistema de Persistencia Jerárquica de Libros  
 ### Parcial 2 – Programación 1  
