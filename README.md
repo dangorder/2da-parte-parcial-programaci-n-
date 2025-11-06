@@ -25,10 +25,25 @@ Los datos se almacenan en una **estructura jerárquica de carpetas**, reflejando
  ```│       └── El Hobbit/libros.csv```
  
  ```└── Historia/```
- 
+     
      ```└── Yuval Harari/```
      
-         ```└── Sapiens/libros.csv```
+             ```└── Sapiens/libros.csv```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
 
 Cada archivo `libros.csv` almacena la información de los libros pertenecientes a ese autor y título, garantizando **persistencia física** en el sistema de archivos.
 
