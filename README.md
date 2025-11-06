@@ -17,8 +17,11 @@ Los datos se almacenan en una **estructura jerárquica de carpetas**, reflejando
 
 biblioteca/
 ├── Ficción/
+
 │   └── Tolkien/
+
 │       └── El Hobbit/libros.csv
+
 └── Historia/
     └── Yuval Harari/
         └── Sapiens/libros.csv
