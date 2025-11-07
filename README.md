@@ -5,8 +5,13 @@ Gestión Jerárquica de Datos
 # 📚 Sistema de Persistencia Jerárquica de Libros  
 ### Parcial 2 – Programación 1  
 Integrantes: Ignacio Sanchez, Fernando Torrez, Nicolas Valdez   
+Profesor: Ramiro Hualpa
 **Lenguaje:** Python 3.x  
 **Tema:** Persistencia avanzada, recursividad y estructura jerárquica de datos  
+
+Links: https://github.com/dangorder/2da-parte-parcial-programaci-n-/edit/main/README.md
+
+Link de nuestro video:
 
 ---
 
