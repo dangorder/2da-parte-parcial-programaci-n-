@@ -11,7 +11,7 @@ Profesor: Ramiro Hualpa
 
 Links: https://github.com/dangorder/2da-parte-parcial-programaci-n-/edit/main/README.md
 
-Link de nuestro video:
+Link de nuestro video: https://drive.google.com/file/d/1nKWOBJGhPS2kwHq-oEE35OC8b4AQmYxO/view?usp=drive_link
 
 ---
 
